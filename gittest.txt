@@ -1,6 +1,10 @@
 Hello World
 Welcome to Bangalore
 
+<<<<<<< HEAD
 
 
 Developer2 Modifying
+=======
+Develpoer1 Modified
+>>>>>>> 8c2b3ecb42caf7edb6fc24bdd3658857b44cbbcf
